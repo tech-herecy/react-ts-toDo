@@ -1,0 +1,11 @@
+.map-with-comment {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: stretch;
+  padding: 10px;
+}
+
+.map-container {
+  flex: 1;
+}
